@@ -1,0 +1,33 @@
+{
+
+  "CONTRACT_ADDRESS": "0x8A5EDBF9743d3f0962B1e5AE2057d9F02D2b24DD",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8A5EDBF9743d3f0962B1e5AE2057d9F02D2b24DD",
+  "NETWORK": 
+  {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Midnight Toker",
+  "SYMBOL": "TMTC",
+  "MAX_SUPPLY": 77777,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 2535000,
+  "MAX_BASE_FEE": 37.3165,
+  "MAX_PRIORITY_FEE": 37.3165,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/themidnighttokersclub",
+  "SHOW_BACKGROUND": true,
+
+
+  "RAFFLE_CONTRACT_ADDRESS": "0xc7914eC0FF1d4F65CB13Bb52C349c543Eec430CE",
+  "RAFFLE_SCAN_LINK": "https://polygonscan.com/token/0xc7914eC0FF1d4F65CB13Bb52C349c543Eec430CE",
+  "RAFFLE_NAME": "Midnight Toker",
+  "TICKET": "Ticket",
+  "TICKET_WEI_COST": 1000000000000000000,
+  "TICKET_DISPLAY_COST": 1,
+  "MINT_PAGE": "Mint Page",
+  "PROJECT_LINK": "https://themidnighttokersclub.com/index"
+
+}
